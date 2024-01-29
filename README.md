@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Lowna Cereño.</h1>
 <h3 align="center">Soy una IOS Developer Amante del aprendizaje continuo.</h3>
 
-- 🔭 Actualmente estoy trabajando en **Skynoff Technologies**
+- 🔭 Actualmente estoy trabajando en **BlackMind**
 
 - 👯 Quisiera trabajar **en una empresa que me permita expandir mis conocimientos y crecer junto a ella**
 
